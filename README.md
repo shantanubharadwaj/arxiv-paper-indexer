@@ -1,2 +1,2 @@
-# arxiv-paper-indexer
-Semantic search, clustering, and LLM-driven exploration over the arXiv research corpus.
+# arXiv Paper Indexer
+A modular system for ingesting, embedding, and indexing arXiv research papers to support semantic search and LLM-based querying.
